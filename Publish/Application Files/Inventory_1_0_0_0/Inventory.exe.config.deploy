@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="Inventory.Properties.Settings.connectionString" connectionString="Data Source=(LocalDB)\MSSQLLocalDB;Initial Catalog=|DataDirectory|\_data\dbInventory.mdf;Integrated Security=True"
+            providerName="System.Data.SqlClient" />
+        <add name="Inventory.Properties.Settings.connectionString2" connectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\james\source\repos\Inventory\Inventory\_data\dbInventory.mdf;Integrated Security=True" />
+    </connectionStrings>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2" />
+    </startup>
+</configuration>
