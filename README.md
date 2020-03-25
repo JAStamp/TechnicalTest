@@ -4,7 +4,11 @@ This is a WPF solution for the Technical Test. The application contains a single
 
 
 INSTALLATION
+Publish Folder
+This contains the executable verions. Run Setup.exe to install
 
+Inventory Folder
+This contains all the files from the Visual Studio solution
 
 
 
